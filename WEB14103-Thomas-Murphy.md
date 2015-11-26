@@ -68,6 +68,8 @@ I was set four different tasks to challegene both our creative and inteleectual 
 
 For this project, we had to initially write our recipe down using Markdown, then convert it to HTML and add to the recipes design and content using HTML and CSS properties. Below yo will find the links to the inital markdown file, the completed hosted webpage, and thee GitHub repository for the source code and stylesheets.
 
+View Github hosted page **[here](http://thomass96.github.io/Code-In-Your-Plate/)**
+
 View Live Recipe Webpage **[here](https://d157rqmxrxj6ey.cloudfront.net/thomass96/14851/)**.
 
 View Markdown file **[here](https://github.com/thomass96/Code-In-Your-Plate/blob/master/Readme.md)**
