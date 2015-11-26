@@ -92,25 +92,23 @@ View my presentation **[here](http://slides.com/thomasmurphy/the-union-hack/full
 ### One Tweet
 
 
-For this project, we were given a list of tweets to choose from and then design a bunch of Typography posters on, being as creative as we can to convey meaning and messages usinging nothign but text and colour alone. Below you can find my Github Repository, Blog post on my website, and Presentation discussing my ideas.
+For this project, we were given a list of tweets to choose from and then design a bunch of Typography posters on, being as creative as we can to convey meaning and messages usinging nothign but text and colour alone. Below you can find my Github Repository, Blog post on my website discussing my ideas.
 
 View Github Repository **[here](https://github.com/thomass96/Typography-Poster)**.
 
 View Project post on my website **[here](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/onetweet-project)**.
 
-View my presentation **[here]()**
-
 
 #### Eyebombing
 
 
-Finally, for this project we had to find, or fall upon, inanimate objects that when viewed at certain angles, unintentionally represent a face type resemblance. This allowed me to work on my camera technique and to explore new angle and methods of taking photos. Below you will find my Github Repository, Blog post on my website, and  presentation discussing my ideas.
+Finally, for this project we had to find, or fall upon, inanimate objects that when viewed at certain angles, unintentionally represent a face type resemblance. This allowed me to work on my camera technique and to explore new angle and methods of taking photos. Below you will find my Github Repository, Blog post on my website presenting my ideas.
 
 View Github Repository **[here](https://github.com/thomass96/Typography-Poster)**.
 
 View Project post on my website **[here](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/eyebombing-faces-in-places)**.
 
-View my presentation **[here]()**
+
 
 
 
