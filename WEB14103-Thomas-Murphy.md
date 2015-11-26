@@ -86,8 +86,7 @@ View Github Repository **[here](https://github.com/thomass96/TheUnionHack)**.
 
 View Project post on my website **[here](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/the-union-hack)**.
 
-View my presentation **[here]()**
-
+View my presentation **[here](http://slides.com/thomasmurphy/the-union-hack/fullscreen)**
 
 
 ### One Tweet
