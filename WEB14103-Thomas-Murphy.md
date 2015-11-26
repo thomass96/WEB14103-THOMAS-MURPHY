@@ -72,7 +72,7 @@ View Live Recipe Webpage **[here](http://recipe.tomsharman.com/)**.
 View Recipe Webpage Source Code **[here](https://github.com/TomSharmanWeb/HarrySeatonWebsite/tree/master/Recipe/Recipe)**.
 
 
-##### The Union Hack
+#### The Union Hack
 
 The second is a recipe search website that displays information from an API. This has been styled using CSS and jQuery to get the information from the API to display when searched.
 
@@ -94,7 +94,7 @@ Download the Paper Wireframes (Stage 1) **[here](https://drive.google.com/a/toms
 Download the Paper Wireframes (Stage 2) **[here](https://drive.google.com/a/tomsharman.com/file/d/0B-byAkkN9IvydVZ3YmlaclRpbDQ/view?usp=sharing)**.
 
 
-##### Eyebombing
+#### Eyebombing
 
 
 After Feedback from my Paper Wire framing, I then created my digital wireframes of Moqups. These allowed for me to experiment with layouts popular within web design and start mapping content on the page in further detail. I also created links between the pages which was presented during my formative presentation.
