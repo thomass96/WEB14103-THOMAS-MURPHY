@@ -23,7 +23,7 @@ I was set four different tasks to challegene both our creative and inteleectual 
 ### Blog Posts
 *The Blog posts for this unit are listed below:*
 
-1. [Code In Your Plate](#CodeInYourPlate)
+1. [Code In Your Plate](#Code In Your Plate)
 
 
 1. [Draw The Web](http://www.fourthfloor.me/blogs/tsharman/2015/01/10/my-world-wide-web/)
@@ -60,7 +60,7 @@ I was set four different tasks to challegene both our creative and inteleectual 
 
 
 
-### CodeInYourPlate
+### Code In Your Plate
 
 ##### Recipe Webpage: Spaghetti Bolognese
 
