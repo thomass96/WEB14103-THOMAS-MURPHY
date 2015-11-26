@@ -16,12 +16,8 @@
 I was set four different tasks to challegene both our creative and inteleectual abilities both on and off the computer, using DLR camereas, Photoshop, working with vectors on Illustrator and using HTML and CSS.
 
 
-###Content -
+###Projects -
 *Click the link to view the relative information to the that project*
-
-
-### Blog Posts
-*The Blog posts for this unit are listed below:*
 
 1. [Code In Your Plate](#code-in-your-plate)
 
@@ -33,159 +29,109 @@ I was set four different tasks to challegene both our creative and inteleectual 
 
 3. [Eyebombing](#eyebombing)
 
-4. [Action Plan (Trello)](https://medium.com/@TOMSHARMAN/organising-web-development-1a7bd7c5822)
 
-5. [Moodboard](https://www.pinterest.com/tomsharman/harry-seaton-website-inspiration/)
+### Blog Posts
+*The Blog posts for this unit are listed below:*
 
-6. [Recipe Evolution: Naked HTML to Gridded CSS (Github Md) ](https://github.com/TomSharmanWeb/WEB14104/blob/master/students/Tom%20Sharman/Recipe%20HTML%26CSS%20Development/recipe_html_%26_css_development.md)
+1. [WDP - Learning Goals](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/learning-goals)
 
-7. [Recipe Evolution: Naked HTML to Gridded CSS (Medium Blog) ](https://medium.com/@TOMSHARMAN/from-naked-html-to-gridded-css-cf7df4eb0620)
 
-8. [The Internet's Own Boy](https://medium.com/@TOMSHARMAN/the-ultimate-price-for-internet-freedom-567d5c503756)
+1. [Eyebombing](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/project-web-design-principles-learning-outcomes)
 
-9. [Web Design Myths](https://medium.com/@TOMSHARMAN/design-has-to-be-original-3803d773798c)
 
-10. [Action Plan (Revisited)](https://medium.com/@TOMSHARMAN/wireframe-feedback-plan-of-action-4666f2ab21ce)
+2. [OneTweet](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/onetweet-project)
 
-11. [jQuery Challenge](https://medium.com/@TOMSHARMAN/jquery-fundimentals-1cb04e73c997)
+3. [The Union Hack](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/onetweet-project)
 
-12. [Debugging](https://medium.com/@TOMSHARMAN/jquery-251ee55becca)
+4. [Peer Learning](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/peer-learning-self-evaluation)
 
-13. [Installing Wordpress locally](https://medium.com/@TOMSHARMAN/how-to-install-wordpress-locally-10de0a5a1a4f)
+5. [Reflection Blog](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/peer-learning-self-evaluation)
 
-14. [Destroy the Web](https://medium.com/@TOMSHARMAN/exclude-china-and-india-9f30b33f4e33)
+6. [The Web's Grain](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/the-webs-grain)
 
-15. [Unit Reflection - What did you learn?](https://medium.com/@TOMSHARMAN/web-development-fc60c2009a06)
+7. [Code In Your Plate](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/code-in-your-plate)
+
+8. [CSS Tricks](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/css-tricks) 
+
+9. [WDP - LEARNING OUTCOMES](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/learning-outcomes)
+
+
+</br>
 
 
 
 
 ### Code In Your Plate
 
-##### Recipe Webpage: Spaghetti Bolognese
+##### Online Recipe : Garlic Chicken Kievs
 
 
-I have worked on two recipe projects for the unit. The first is a webpage using HTML & CSS to make a responsive webpage of a Spaghetti Bolognese Recipe found online. This helped me to get familiar with the basics of coding and experiment with responsive design.
+For this project, we had to initially write our recipe down using Markdown, then convert it to HTML and add to the recipes design and content using HTML and CSS properties. Below yo will find the links to the inital markdown file, the completed hosted webpage, and thee GitHub repository for the source code and stylesheets.
 
-View Live Recipe Webpage **[here](http://recipe.tomsharman.com/)**.
+View Live Recipe Webpage **[here](https://d157rqmxrxj6ey.cloudfront.net/thomass96/14851/)**.
 
-View Recipe Webpage Source Code **[here](https://github.com/TomSharmanWeb/HarrySeatonWebsite/tree/master/Recipe/Recipe)**.
+View Markdown file **[here](https://github.com/thomass96/Code-In-Your-Plate/blob/master/Readme.md)**
+
+View Github Repository **[here](https://github.com/TomSharmanWeb/HarrySeatonWebsite/tree/master/Recipe/Recipe)**. - The first html version is also available to view to compare against the final outcome.
+
+View Project post on my website **[here](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/code-in-your-plate)**
+
 
 
 #### The Union Hack
 
-The second is a recipe search website that displays information from an API. This has been styled using CSS and jQuery to get the information from the API to display when searched.
+The second project here we had to design flags. The project is broken down into two parts. A) Redesign or mashup exisisting flags, to make them more modern and 21st Century, and also to meet the design brief set by the TED Talk to 'desiging a good flag'. B? Then create our own flag to replace a current one or for our own imaginary place. Below you will find the links to my Github Repository, Blog Post on my website, and Presentation dicussing my designs.  
 
-View  Live 'EXPIRY' (Recipe Search Engine using API) **[here](http://expiry.tomsharmna.com/)**.
+View Github Repository **[here](https://github.com/thomass96/TheUnionHack)**.
 
-View EXPIRY API Search Webpage Source Code **[here](https://github.com/TomSharmanWeb/HarrySeatonWebsite/tree/master/Recipe/EXPIRY)**.
+View Project post on my website **[here](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/the-union-hack)**.
+
+View my presentation **[here]()**
 
 
 
 ### One Tweet
 
 
-##### Paper Wireframeing
+For this project, we were given a list of tweets to choose from and then design a bunch of Typography posters on, being as creative as we can to convey meaning and messages usinging nothign but text and colour alone. Below you can find my Github Repository, Blog post on my website, and Presentation discussing my ideas.
 
-In the initial stages of the development, I created paper wireframes which allowed me to put down on paper, the ideas of the website into what would be the basic tempting of the site. This allowed me to get all of the ideas such as features and the feel of the website presented visually in a way that I can see if it looks appealing and follows convention and web trends and appeals to the user.
+View Github Repository **[here](https://github.com/thomass96/Typography-Poster)**.
 
-Download the Paper Wireframes (Stage 1) **[here](https://drive.google.com/a/tomsharman.com/file/d/0B-byAkkN9IvyWlhySEVRYmVGcjg/view?usp=sharing)**.
+View Project post on my website **[here](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/onetweet-project)**.
 
-Download the Paper Wireframes (Stage 2) **[here](https://drive.google.com/a/tomsharman.com/file/d/0B-byAkkN9IvydVZ3YmlaclRpbDQ/view?usp=sharing)**.
+View my presentation **[here]()**
 
 
 #### Eyebombing
 
 
-After Feedback from my Paper Wire framing, I then created my digital wireframes of Moqups. These allowed for me to experiment with layouts popular within web design and start mapping content on the page in further detail. I also created links between the pages which was presented during my formative presentation.
+Finally, for this project we had to find, or fall upon, inanimate objects that when viewed at certain angles, unintentionally represent a face type resemblance. This allowed me to work on my camera technique and to explore new angle and methods of taking photos. Below you will find my Github Repository, Blog post on my website, and  presentation discussing my ideas.
 
-View the Digital Wireframes **[here](https://moqups.com/Tomsharmanweb/CoUMNcWV/)**.
+View Github Repository **[here](https://github.com/thomass96/Typography-Poster)**.
 
-Download the Digital Wireframes (Stage 3) **[here](https://drive.google.com/a/tomsharman.com/file/d/0B-byAkkN9IvyXzQ1bGFLblhJZFk/view?usp=sharing)**.
+View Project post on my website **[here](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/eyebombing-faces-in-places)**.
+
+View my presentation **[here]()**
 
 
 
 ### Formative Presentation
 
-I presented the progress of my development with the wire-framing and planning process and also with the recipe development on the 9th March 2015. 
+We presented our projects in different groups on Wednesday 28th Novemeber, below you can view the presentations that we delivered there and compare how the work has progressed since.
 
-Download my Formative Presentation **[here](https://drive.google.com/file/d/0B-byAkkN9IvybnFmY1JaRHRDbDg/view?usp=sharing)**.
+The Union Hack **[here](https://docs.google.com/presentation/d/13uoAwEO7zhLJUjeIUUaQQjuAkOdmL04E3AQ9oTkVPj8/edit?usp=sharing)**.
 
-or [View on GitHub](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Formative%20Presentation/Harry%20Seaton%20Website%20Formattive%20Presentation%20-%2009.03.15.pdf)
+Eyebombing **[here](https://docs.google.com/presentation/d/1czlmtabUmGRSpGkr-Ao2W061C3x3Ntgs2duzRosvo8U/edit?usp=sharing)**.
 
+*Unfortunatley I presented my OneTweet project via GitHub and no longer have a copy of the version on the day of my formative. However if you view my blog post of the project, you can follow the updates to my work made after the formative based on its feedback. Click **[Here](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/onetweet-project)*
 
-### Live Website
-
-
-The website is hosted on the Raveweb.net server running Wordpress in the backend as a content management system (CMS). 
-
-The website is online and available **[here](http://harryseaton.raveweb.net/)**.
-
-
-##### Front-End Code
-
-The website has been coded in HTML & CSS, then implemented into the LearnPress Wordpress theme using php page templates. 
-
-*Page Source Codes:*
-
-
-- [Header](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/header.php)
-- [Home Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/page-home.php)
-- [Tickets Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/page-tickets.php)
-- [Watch Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/page-watch.php)
-- [Connect Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/page-connect.php)
-- [LookBook Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/page-lookbook.php)
-- [Terms Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/page-terms.php)
-- [404 Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/templates/404.php)
-- [Footer](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/footer.php)
-
-
-
-
-##### Back-End Code
-
-I have also Implemented some php functions and jQuery Functions into the website so add features such as the video player, the sound for the homepage video and the LookBook masonry.
-
-- [Masonry jQuery Code](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/js/masonry.js)
-- [HomePage Video Sound jQuery Code](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/js/homevid.js)
-
-
-##### Implementation with Wordpress as CMS
-
-The static HTML files were converted into a php Wordpress theme, LearnPress. This gave the very basic structure of a wordpress theme and I implemented the code into a php file for each page. The header and footer code was then added to the header.php and footer.php.
-
-
-Here is an image of the WP Dashboard for the live website:
-![image](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Miscellaneous/liveWebsiteWPDashboard.png)
-
-
-The Plugins used were Advanced Custom Fields, Advanced Custom Fields Rpeater and Migrate Sync DB. Advanced Custom Fields allowed for fields to be added to the site in which the site admin could easily change content, and using php implemented into the code, would change the pages content. The Migrate Sync DB plugin synchronised the databases from the local Wordpress to the Remote Wordpress (The Live website).
-
-
-Here is an image of the Plugins used on Wordpress:
-![image](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Miscellaneous/liveWebsiteWPPlugins.png)
-
-
-
-##### CSS
-
-The website has been styled in CSS using the Skeleton CSS Boilerplate and then custom CSS (main.css). This has been overwritten of the skeleton CSS files to style the website.
-
-View the Custom CSS **[here](https://github.com/TomSharmanWeb/HarrySeatonWebsite/tree/master/Website/css)**.
 
 
 ### Summative Presentation
 
-
-I presented the Summative Presentation via Video on Friday 12th June 2015 due to being unable to attend the lecture. It gave me an opportunity to present the project and explain the process in which I took to complete the development. I explained the complications that occurred and how I met the aims that myself and the client initially set during the start of the unit.
-
-
-![image](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Miscellaneous/summative-presentation-thumb2.jpg)
+<< time to do some work >> 
 
 
-[Watch Summative Presentation Video](https://youtu.be/PzartmoljMI)
-
-[Download Summative Presentation Video](https://drive.google.com/a/tomsharman.com/file/d/0B-byAkkN9IvyWjM3cFBBd05EOEk/view?usp=sharing)
 
 
 
