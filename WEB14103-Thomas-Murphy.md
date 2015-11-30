@@ -43,7 +43,7 @@ I was set four different tasks to challegene both our creative and inteleectual 
 
 3. [The Union Hack](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/the-union-hack)
 
-4. [Peer Learning](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/peer-learning-self-evaluation)
+4. [Peer Learning](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/peer-learning-feedback)
 
 5. [Reflection Blog](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/peer-learning-self-evaluation)
 
@@ -106,7 +106,7 @@ View Project post on my website **[here](http://www.thomasmurphy.com.gridhosted.
 
 Finally, for this project we had to find, or fall upon, inanimate objects that when viewed at certain angles, unintentionally represent a face type resemblance. This allowed me to work on my camera technique and to explore new angle and methods of taking photos. Below you will find my Github Repository, Blog post on my website presenting my ideas.
 
-View Github Repository **[here](https://github.com/thomass96/Typography-Poster)**.
+View Github Repository **[here](https://github.com/Eyebombers/pareidolia-pictures)**.
 
 View Project post on my website **[here](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/eyebombing-faces-in-places)**.
 
