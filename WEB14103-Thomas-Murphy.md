@@ -36,12 +36,12 @@ I was set four different tasks to challegene both our creative and inteleectual 
 1. [WDP - Learning Goals](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/learning-goals)
 
 
-1. [Eyebombing](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/project-web-design-principles-learning-outcomes)
+1. [Eyebombing](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/eyebombing-faces-in-places)
 
 
 2. [OneTweet](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/onetweet-project)
 
-3. [The Union Hack](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/onetweet-project)
+3. [The Union Hack](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/the-union-hack)
 
 4. [Peer Learning](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/peer-learning-self-evaluation)
 
