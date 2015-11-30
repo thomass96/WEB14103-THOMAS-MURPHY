@@ -13,8 +13,9 @@
 
 ### Introduction
 
-I was set four different tasks to challegene both our creative and inteleectual abilities both on and off the computer, using DLR camereas, Photoshop, working with vectors on Illustrator and using HTML and CSS.
+I was set four different tasks to challegene both our creative and inteleectual abilities both on and off the computer, using DLR camereas, Photoshop, working with vectors on Illustrator and using HTML and CSS. 
 
+Using some of the skills I learnt from this Unit, I created my own website where I host all of my blog pages and projects which I hope to use in the furture as my own personal online portfolio. You can find it at - [HERE](http://thomasmurphy.com.gridhosted.co.uk)
 
 ###Projects -
 *Click the link to view the relative information to the that project*
