@@ -75,7 +75,7 @@ View Live Recipe Webpage **[here](https://d157rqmxrxj6ey.cloudfront.net/thomass9
 
 View Markdown file **[here](https://github.com/thomass96/Code-In-Your-Plate/blob/master/Readme.md)**
 
-View Github Repository **[here](https://github.com/TomSharmanWeb/HarrySeatonWebsite/tree/master/Recipe/Recipe)**. - The first html version is also available to view to compare against the final outcome.
+View Github Repository **[here](https://github.com/thomass96/Code-In-Your-Plate)**. - The first html version is also available to view to compare against the final outcome.
 
 View Project post on my website **[here](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/code-in-your-plate)**
 
