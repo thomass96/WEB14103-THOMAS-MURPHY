@@ -129,8 +129,13 @@ Eyebombing **[here](https://docs.google.com/presentation/d/1czlmtabUmGRSpGkr-Ao2
 
 ### Summative Presentation
 
-<< time to do some work >> 
+For my summative, I chose to present my favourite project and show how I changed my work and built on it based on the feedback I recevied during the Fortmative. Therefore, I chose to do the OneTweet Project. 
 
+I liked the project as I found it most challenging in Adobe Illustrator, which I had no clue how to use before, and now I feel like i've developed lots of skills from this project that I could comfortably use this software to develop logos and graphics in the future. 
+
+You can find the link of my Summative Presentation [HERE](http://slides.com/thomasmurphy/summative-presentation/fullscreen).
+
+Thank you.
 
 
 
