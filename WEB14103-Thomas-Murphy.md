@@ -113,8 +113,6 @@ View Project post on my website **[here](http://www.thomasmurphy.com.gridhosted.
 
 
 
-
-
 ### Formative Presentation
 
 We presented our projects in different groups on Wednesday 28th Novemeber, below you can view the presentations that we delivered there and compare how the work has progressed since.
@@ -123,7 +121,7 @@ The Union Hack **[here](https://docs.google.com/presentation/d/13uoAwEO7zhLJUjeI
 
 Eyebombing **[here](https://docs.google.com/presentation/d/1czlmtabUmGRSpGkr-Ao2W061C3x3Ntgs2duzRosvo8U/edit?usp=sharing)**.
 
-*Unfortunatley I presented my OneTweet project via GitHub and no longer have a copy of the version on the day of my formative. However if you view my blog post of the project, you can follow the updates to my work made after the formative based on its feedback. Click **[Here](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/onetweet-project)*
+*Unfortunatley I presented my OneTweet project via GitHub and no longer have a copy of the version on the day of my formative. However if you view my blog post of the project, you can follow the updates to my work made after the formative based on its feedback. Click [Here](http://www.thomasmurphy.com.gridhosted.co.uk/web14103/website-design-principles/onetweet-project)*
 
 
 
